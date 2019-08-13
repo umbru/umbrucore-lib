@@ -1,5 +1,5 @@
 {
-  "name": "@umbru/umbrucore-lib",
+  "name": "umbrucore-lib",
   "version": "0.17.9",
   "description": "A pure and powerful JavaScript Umbru library.",
   "author": "Umbru Core Group, Inc. <dev@umbru.io>",
